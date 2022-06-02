@@ -1,0 +1,2 @@
+reactions,genes,size,fva_min,fva_max,target_flux,biomass_flux,yield,fitness
+"('KAS15', 'ACOATA')","(('b1091',),)",1,2.3951720183778984,2.7110972334250567,2.419365675129194,0.9205805116532252,0.2419365675129194,0.2227222371646

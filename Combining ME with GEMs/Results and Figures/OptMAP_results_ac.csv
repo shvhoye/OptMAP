@@ -1,0 +1,4 @@
+Solution,reactions,genes,target_flux,biomass_flux,fitness
+1,"('GND', 'ICL', 'SUCOAS')","('b2029', 'b4015', 'b0728')",10.62,0.62,0.66
+2,ATPS4r,b3734,14.31,0.37,0.54
+3,"('ACALDt', 'CO2t', 'H2Ot', 'NH4t', 'O2t')",s0001,8.32,0.21,0.18

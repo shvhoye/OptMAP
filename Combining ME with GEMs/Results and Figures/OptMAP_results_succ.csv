@@ -1,0 +1,4 @@
+Solution,reactions,genes,target_flux,biomass_flux,fitness
+1,"('ATPS4r', 'PFL', 'PTAr')","('b3733', ('b0902', 'b3952'), ('b2297', 'b2458'))",128.20,0.37,4.80
+2,"('ATPS4r', ('NADTRHD', 'THD2'))","('b3733', 'b1603')",51.22,0.37,1.92
+3,"('ATPS4r', 'TPI')","('b3734', 'b3919')",109.34,0.13,1.47
